@@ -10,7 +10,7 @@ Built with Python, Claude API, and Streamlit. Part of the [GermGuide AI](https:/
 
 ## Live Demo
 
-🔗 **[Live demo link — add after deploying to Streamlit Cloud]**
+🔗 https://askvisa-db5g7tqeqbvb2zxlxfbsce.streamlit.app/
 
 ---
 
